@@ -1,4 +1,4 @@
-# Weather App ReadMe
+# Weather App
 
 ## Introduction
 
